@@ -42,3 +42,13 @@ I couldn't complete the game because I was alone and in a busy period.
 I designed Portal and Gravity Boots mechanics.
 
 https://shadowfreak6.itch.io/save-the-iss
+
+-----------------------
+Academy Escape: The Quest for Knowledge
+-----------------------
+A 2D Top Down action game with the theme of Academy Adventures. We made this game at Google Game and App Academy Gamejam in 48 hours.
+I did most of the gameplay and game mechanic coding. I also tinkered with the URP shaders and did some of the animations.
+Here is the link for 1 minute trailer of our game:
+https://www.youtube.com/watch?v=FE0ewcyYkM8
+
+https://shadowfreak6.itch.io/academy-escape-the-quest-for-knowledge
